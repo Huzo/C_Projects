@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1511688986 source:c:\users\mirackiran\desktop\mathtoolboxphase3b\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1511762695 source:c:\users\s1155104019\downloads\mathtoolboxphase3b\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
